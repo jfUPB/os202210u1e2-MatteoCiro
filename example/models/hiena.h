@@ -14,7 +14,5 @@
 
 		Observer* observer;
 	} Hiena;
-
 	Hiena* HIENA_create(char *);
-
 #endif
